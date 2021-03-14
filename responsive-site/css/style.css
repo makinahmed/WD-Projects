@@ -1,0 +1,61 @@
+/* rgb(197, 156, 80); */
+
+.banner {
+    background: url("../images/banner.jpg");
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
+
+.sectionHead {
+    text-align: center;
+}
+
+.customBorder {
+    border-bottom: 2px solid rgb(197, 156, 80);
+    display: block;
+    width: 8%;
+    margin: auto;
+}
+
+.mycustomSomeHeadings i {
+    font-size: 100px;
+}
+
+.mobileImg {
+    position: relative;
+    background: url("../images/testimonial-bg.jpg");
+    max-width: 100%;
+    height: 30rem;
+    background-size: cover;
+    color: white;
+}
+
+.billandsteve {
+    position: absolute;
+}
+
+.lastimg {
+    max-width: 100%;
+    height: auto;
+}
+
+.readmore {
+    color: rgb(197, 156, 80);
+    ;
+}
+
+.information {
+    background: rgb(197, 156, 80);
+}
+
+.borderbottom {
+    display: block;
+    border-bottom: 2px solid silver;
+    width: 8%;
+}
+
+.footer {
+    background: rgb(160, 110, 17);
+    ;
+}
